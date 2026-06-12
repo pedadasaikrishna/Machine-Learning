@@ -1,0 +1,19 @@
+{
+  "title": "Supervised Regression Algorithms in Machine Learning",
+  "summary": "Learn the foundations of Supervised Regression Algorithms, their principles, benefits, and real-world applications.",
+  "difficulty": "Hard",
+  "estimatedTime": "120 Minutes",
+  "xp": 150,
+  "order": 1,
+  "category": "Machine Learning",
+  "status": "published",
+  "tags": ["machine learning", "supervised regression", "model training"],
+    "author": {
+        "name": "Path4DSA",
+        "LinkedinProfileUrl": "https://www.linkedin.com/company/path4dsa"
+    },
+    "Contributors": {
+        "name": "Sai Krishna",
+        "LinkedinProfileUrl": "https://www.linkedin.com/in/pedada-sai-krishna-94339b297/"
+    }
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Introduction to Machine Learning",
+  "summary": "Learn the foundations of Machine Learning, its principles, benefits, and real-world applications.",
+  "difficulty": "Beginner",
+  "estimatedTime": "30 Minutes",
+  "xp": 50,
+  "order": 1,
+  "category": "Machine Learning",
+  "status": "published",
+  "tags": ["machine learning", "fundamentals", "introduction", "data science"],
+    "author": {
+        "name": "Path4DSA",
+        "LinkedinProfileUrl": "https://www.linkedin.com/company/path4dsa"
+    },
+    "Contributors": {
+        "name": "Sai Krishna",
+        "LinkedinProfileUrl": "https://www.linkedin.com/in/pedada-sai-krishna-94339b297/"
+    }
+}
